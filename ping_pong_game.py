@@ -1,3 +1,5 @@
+#Coded by Mohammad Salam
+
 import turtle
 
 wn = turtle.Screen()
